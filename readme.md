@@ -52,7 +52,7 @@
 
 <h3>Application Technologies</h3>
 <ul>
-    <li>React Native v0.57.7</li>
+    <li>React Native v0.61</li>
     <li>React Navigation v2.18.2</li>
     <li>React Native Animatable</li>
     <li>WooCommerce API</li>
