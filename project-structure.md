@@ -4,7 +4,7 @@
 
 ### Screenshot of Source Code
 
-<img src="../img/code.png" width="100%" height="500">
+<img src="https://github.com/kayaui/Storex-Pro-Docs/blob/master/img//code.png" width="100%" height="500">
 
 ### Project Level Folder Description
 
