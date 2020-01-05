@@ -27,6 +27,8 @@ Go the storexpro project folder open the file: `src/config.js` and follow below 
 
 Install required plugins for user auth and payments features in the application.
 
+Download all plugins: https://github.com/kayaui/Storex-Pro-Docs/raw/master/plugins.zip
+
 https://wordpress.org/plugins/json-api/
 
 https://wordpress.org/plugins/json-api-user/
