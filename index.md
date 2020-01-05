@@ -75,7 +75,7 @@
 
 ### Orders Demo
 
-<img src="../img/orders_demo.png" width="100%" height="410">
+<img src="https://github.com/kayaui/Storex-Pro-Docs/blob/master/img/orders_demo.png" width="100%" height="410">
 
 
 Email to contact@kayaui.com
