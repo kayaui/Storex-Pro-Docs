@@ -32,6 +32,8 @@ https://github.com/kayaui/Storex-Pro-Docs/raw/master/plugins.zip
 
 
 https://wordpress.org/plugins/json-api/
+
 https://wordpress.org/plugins/json-api-user/
+
 https://wordpress.org/plugins/woocommerce-gateway-paypal-express-checkout/
 
