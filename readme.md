@@ -2,14 +2,13 @@
 
 <b>Navigation</b>
 
-- [StoreX Pro](app/storex-pro-react-native-complete-ecommerce-template.md)
-- [Get Started](app/get-started.md)
-- [Woocommerce Configuration](app/woocommerce-configuration.md)
-- [Paypal Configuration](app/paypal.md)
-- [Project Structure](app/project-structure.md)
-- [FAQ & Troubleshooting](app/faq.md)
-- [Change Logs](app/change-logs.md)
-- [About Us](app/about-us.md)
+- [StoreX Pro](storex-pro-react-native-complete-ecommerce-template.md)
+- [Get Started](get-started.md)
+- [Woocommerce Configuration](woocommerce-configuration.md)
+- [Paypal Configuration](paypal-configuration.md)
+- [Project Structure](project-structure.md)
+- [FAQ & Troubleshooting](faq.md)
+- [About Us](about-us.md)
 
 
 <p>
