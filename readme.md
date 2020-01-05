@@ -2,7 +2,6 @@
 
 <b>Navigation</b>
 
-- [StoreX Pro](storex-pro-react-native-complete-ecommerce-template.md)
 - [Get Started](get-started.md)
 - [Woocommerce Configuration](woocommerce-configuration.md)
 - [Paypal Configuration](paypal-configuration.md)
